@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rayeheh Niroomanesh.
-- 👀 I’m interested in Robotics, Artificial intelligence, and control engineering.
+- 👀 I’m interested in Robotics, Control Engineering, and Artificial Intelligence..
 - 🌱 I’m currently a Mechatronics engineering master's student.
 
 
